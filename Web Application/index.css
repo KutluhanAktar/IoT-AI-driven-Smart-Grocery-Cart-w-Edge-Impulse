@@ -1,0 +1,10 @@
+html{background-image:url('background.jpg');background-repeat:no-repeat;background-attachment:fixed;background-size:100% 100%;font-family:'Zen Dots', cursive;}
+h1{text-align:center;font-weight:bold;user-select:none;background:-webkit-linear-gradient(grey, white);-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+input{background-image:linear-gradient(45deg, #1F2020, grey);color:white;font-weight:bold;}
+label{user-select:none;}
+
+.container{position:relative;background-image:linear-gradient(45deg, #1F2020, #A5282C);width:350px;height:350px;margin:auto;margin-top:150px;border:10px solid #25282A;border-radius:20px;padding:10px;}
+.container div{position:relative;background-color:none;width:95%;height:auto;margin-top:25px;margin-bottom:15px;}
+.container div input{position:absolute;right:0;width:150px;}
+.container button{display:block;background-image:linear-gradient(45deg, #1F2020, #F3D060);width:70%;height:auto;margin:auto;margin-top:50px;font-size:20px;border:5px solid #25282A;border-radius:15px;font-weight:bold;}
+.container button:hover{cursor:pointer;background-image:linear-gradient(45deg, #F3D060, #F3D060);}
