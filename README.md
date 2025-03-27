@@ -1,0 +1,1 @@
+# IoT-AI-driven-Smart-Grocery-Cart-w-Edge-Impulse
